@@ -77,7 +77,6 @@
 </div>
 
 ###
-
-<p align="left">Welcome to my github. This page contains all my work, personal projects and more. While most of these projects use CSS/HTML/ Javascript for web development, I'm also familiar with Python, CPP and C# from my experiences in Royal Holloway, where I am pursuing my bachelors' in Computer Science with Information Security. <br><br>Welcome, to my page :)</p>
+<p align="left">Hey there! I'm Washma, a Computer Science with Information Security student at Royal Holloway, University of London. This GitHub showcases a mix of my academic and personal projects. Always learning, always building :)</p>
 
 ###
