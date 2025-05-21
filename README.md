@@ -1,4 +1,4 @@
-<h2 align="left">Hey! My name is Washma and I'm a Computer Scientist student in London!</h2>
+<h2 align="left">Hey! My name is Washma and I'm a Computer Science student in London!</h2>
 
 ###
 
@@ -68,16 +68,16 @@
 ###
 
 <div align="left">
-  <a href="sammalik@umich.edu" target="_blank">
+  <a href="wmis045@live.rhul.ac.uk" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/sam-malik-30b3b822b/" target="_blank">
+  <a href="www.linkedin.com/in/washmaali" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
 
-<p align="left">Welcome to my github. This page contains all my work, personal projects and more. While most of these projects use CSS/HTML/ Javascript for web development, I'm also familiar with Python, CPP and C# from my experiences in University of Michigan, where I recently completed my bachelors' in computer science with a focus in business. <br><br>Welcome, to my page :)</p>
+<p align="left">Welcome to my github. This page contains all my work, personal projects and more. While most of these projects use CSS/HTML/ Javascript for web development, I'm also familiar with Python, CPP and C# from my experiences in Royal Holloway, where I am pursuing my bachelors' in Computer Science with Information Security. <br><br>Welcome, to my page :)</p>
 
 ###
