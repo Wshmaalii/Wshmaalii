@@ -3,45 +3,16 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=Wshmaalii&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wshmaalii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wshmaalii&theme=dracula&hide_border=false" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wshmaalii&layout=compact&langs_count=6&theme=dracula&hide_border=false&v=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Wshmaalii&show_icons=true&theme=dracula&hide_border=false" height="150" alt="github stats" />
 </div>
 
 ###
 
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo" />
-</div>
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,gitlab,docker,sqlite,vscode,figma,jira,trello&perline=8" />
+</p>
 
 ###
 
@@ -55,6 +26,5 @@
 </div>
 
 ###
-<p align="left">Hey there! I'm Washma, a Computer Science with Information Security student at Royal Holloway, University of London. This GitHub showcases a mix of my academic and personal projects. Always learning, always building :)</p>
 
-###
+<p align="left">Hey there! I'm Washma, a Computer Science with Information Security student at Royal Holloway, University of London. This GitHub showcases a mix of my academic and personal projects. Always learning, always building :)</p>
